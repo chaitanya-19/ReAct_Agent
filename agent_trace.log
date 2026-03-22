@@ -1,0 +1,25 @@
+2026-03-22 15:34:48,186 [INFO] ============================================================
+2026-03-22 15:34:48,186 [INFO] >>> LLM REQUEST
+2026-03-22 15:34:48,186 [INFO] Timestamp  : 2026-03-22T15:34:48.186695
+2026-03-22 15:34:48,186 [INFO] Model      : gemini-2.5-flash
+2026-03-22 15:34:48,186 [INFO] Message[0] : [user] hi
+2026-03-22 15:34:49,758 [INFO] <<< LLM RESPONSE
+2026-03-22 15:34:49,758 [INFO] Model Ver  : gemini-2.5-flash
+2026-03-22 15:34:49,758 [INFO] Finish     : FinishReason.STOP
+2026-03-22 15:34:49,758 [INFO] Response   : Hello! How can I help you today?
+2026-03-22 15:34:49,759 [INFO] Tokens     : prompt=191 | response=9 | total=200
+2026-03-22 15:34:49,770 [INFO] ============================================================
+2026-03-22 15:35:26,907 [INFO] ============================================================
+2026-03-22 15:35:26,907 [INFO] >>> LLM REQUEST
+2026-03-22 15:35:26,908 [INFO] Timestamp  : 2026-03-22T15:35:26.907787
+2026-03-22 15:35:26,908 [INFO] Model      : gemini-2.5-flash
+2026-03-22 15:35:26,908 [INFO] Message[0] : [user] hi
+2026-03-22 15:35:26,908 [INFO] Message[1] : [model] Hello! How can I help you today?
+2026-03-22 15:35:26,908 [INFO] Message[2] : [user] how old is POTUS
+2026-03-22 15:35:31,349 [INFO] <<< LLM RESPONSE
+2026-03-22 15:35:31,356 [INFO] Model Ver  : gemini-2.5-flash
+2026-03-22 15:35:31,357 [INFO] Finish     : FinishReason.STOP
+2026-03-22 15:35:31,357 [INFO] Response   : The current President of the United States, Donald Trump, is 79 years old. He was born on June 14, 1946. He became the 47th President of the United States on January 20, 2025, at the age of 78 years and seven months.
+2026-03-22 15:35:31,357 [INFO] Searches   : ['how old is current POTUS', 'Joe Biden age']
+2026-03-22 15:35:31,362 [INFO] Tokens     : prompt=207 | response=91 | total=929
+2026-03-22 15:35:31,362 [INFO] ============================================================
